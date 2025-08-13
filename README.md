@@ -1,6 +1,4 @@
-# Zomato_Restaurants_Analysis
 
-Here’s a README file you can add to your GitHub repo based on the overview you provided:
 
 ---
 
@@ -76,5 +74,3 @@ This Power BI project provides an interactive analysis of **Zomato restaurant da
 1. Clone this repository.
 2. Open the `.pbix` file in **Power BI Desktop**.
 3. Interact with the slicers and filters to explore the data.
-
-Do you want me to also include **a polished visual section** in the README showing charts and KPI cards from your Power BI dashboard so it looks more appealing on GitHub? That can make it look like a portfolio piece.
